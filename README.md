@@ -12,7 +12,7 @@ Notes on Stateful components
 
 The function returns an array -two values -assign them to counter and setCounter using destructuring assignment.
 
-``setTimeout( () => setCounter(counter + 1), 1000 )`
+`setTimeout( () => setCounter(counter + 1), 1000 )`
 
 A function called setTimeout -passed it two parameters
 
